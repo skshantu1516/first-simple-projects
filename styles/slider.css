@@ -5,4 +5,10 @@ img{
 }
 p{
      color: aqua;
+     background-color: black;
+     border: 2px;
+     box-sizing: border-box;
+}
+div{
+     color: blue;
 }
